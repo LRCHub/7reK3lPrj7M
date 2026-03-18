@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "彼女は今、迷宮の中。（feat. 花譜）",
+  "base_track": "彼女は今、迷宮の中。（feat. ハコニワリリィ）",
   "base_artist": "MARUMOCHI from HoneyWorks",
-  "createdAt": "2026-03-01T05:42:53.780829Z",
+  "createdAt": "2026-03-18T15:34:04.178425Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "彼女は今、迷宮の中。 feat.花譜",
+      "title": "彼女は今、迷宮の中。 feat.ハコニワリリィ",
       "artist": "MARUMOCHI from HoneyWorks",
       "has_synced": false,
-      "path": "select/pl_01_彼女は今、迷宮の中。_feat.花譜_MARUMOCHI_from_HoneyWorks.txt"
+      "path": "select/pl_01_彼女は今、迷宮の中。_feat.ハコニワリリィ_MARUMOCHI_from_HoneyWorks.txt"
     }
   ]
 }
