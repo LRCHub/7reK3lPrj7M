@@ -1,4 +1,4 @@
-# MARUMOCHI from HoneyWorks – 彼女は今、迷宮の中。（feat. 花譜）
+# MARUMOCHI from HoneyWorks – 彼女は今、迷宮の中。（feat. ハコニワリリィ）
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
